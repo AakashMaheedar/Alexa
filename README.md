@@ -8,6 +8,8 @@ try this out
 
 Sample Op:
 C:\Alexa\ModulePyFiles>python chrome.py
+
+
 Welecome to Voice Command Protal How can i help You:
 
 DevTools listening on ws://127.0.0.1:50243/devtools/browser/10aab704-f371-469b-ae29-b24cc4a6465c
